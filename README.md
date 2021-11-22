@@ -1,8 +1,8 @@
  Halo!!! i_am_anbukaran_here..... 👋
 - 🔭 I’m currently working on AXEL PVT LTD
-- 🌱 I’m currently learning data science
+- 🌱 I’m currently learning data science and stuffs
 - 👯 I’m looking to collaborate on google,youtube
-- 🤔 I’m looking for help with data analytics & scientist projects
+- 🤔 I’m looking for help with web scrapping, data analytics & data scientist projects
 - 💬 Ask me about developer stuffs
 - 📫 How to reach me: instagram/dredd_anbu
 - 😄 Pronouns: he/his
