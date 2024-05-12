@@ -1,5 +1,5 @@
  Halo!!! i_am_anbukaran_here..... 👋
-- 🔭 I’m currently working on internship @GILES BOOKERS ACADEMY
+- 🔭 I’m currently working on Data Engineer @Cintal Tech Pvt Ltd.
 - 🌱 I’m currently learning data science and stuffs
 - 👯 I’m looking to collaborate on google,youtube
 - 🤔 I’m looking for help with web scrapping, data analytics & data scientist projects
